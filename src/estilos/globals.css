@@ -1,15 +1,13 @@
 body {
   margin: 0;
-  display: flex;
+  display: flex; 
   flex-direction: column;
-  /* place-items: center; */
   align-items: center;
-  justify-content: center;
+  /* justify-content: center; */
   min-width: 320px;
-  min-height: 100vh;
-  box-sizing: border-box;;
-  border: 3px solid green;
-  border-radius: 8px;
+  /* min-height: 100vh; */
+  border: 13px solid red;
+  box-sizing: border-box;
 }
 
 h1 {
